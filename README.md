@@ -46,7 +46,7 @@ on <img src="./resources/folder_type_docker.svg" alt="folder" width="40" height=
 based on framework and build tool used in project to navigate to specific docker files. Check
 the `README.md` per framework for the detailed steps.
 
-__Step-2:__ Now copy the `Dockerfile`, `docker-compose.yml` and `.env` files from repository where
+__Step-2:__ Then copy the `Dockerfile`, `docker-compose.yml` and `.env` files from repository where
 you have been navigated, to the working directory and make appropriate changes.
 
 __Step-3:__ Simply run:
